@@ -58,7 +58,7 @@ Input → Output: Programming task or code snippet → Working code, explanation
 
 Description: Tracks project progress and automates task management.
 Capability Agent
-Input → Output: Project tasks, deadlines, and updates → Prioritized task list, reminders, and status reports
+Input → Output: Project tasks, deadlines, and updates → Prioritized task list, reminders, and status reports..
 
 11. Automated Test Case Generator (Relevant to Internship Company Domain)
 
