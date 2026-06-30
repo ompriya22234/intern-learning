@@ -27,4 +27,9 @@ Create a FastAPI app with one custom endpoint and run it in Docker.
 - Included company-specific use cases.
 - Chose the first implementation idea with a brief justification.
 
+# Day 7: Prompt Library
 
+- Built a library of 5 production-ready AI prompts.
+- Created prompts for resume generation, summarization, action item extraction, error message rewriting, and a custom use case.
+- Included system messages, user templates, example outputs, and prompt iterations (v1 vs v2).
+- Tested prompts for reliable and consistent results.
