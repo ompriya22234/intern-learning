@@ -33,3 +33,17 @@ Create a FastAPI app with one custom endpoint and run it in Docker.
 - Created prompts for resume generation, summarization, action item extraction, error message rewriting, and a custom use case.
 - Included system messages, user templates, example outputs, and prompt iterations (v1 vs v2).
 - Tested prompts for reliable and consistent results.
+
+ # Day 8: First API Call Script
+
+ Set up a Python virtual environment.
+- Installed and configured the Google Gemini API SDK.
+- Stored the API key securely using a `.env` file.
+- Created a prompt template for document summarization.
+- Read input text from `input.txt`.
+- Sent the prompt and document to the Gemini model.
+- Generated a structured JSON response containing the title, summary, and key points.
+- Parsed and displayed the JSON output in Python.
+- Organized the project with proper folders and dependencies.
+
+
