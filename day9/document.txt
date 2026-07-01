@@ -1,0 +1,23 @@
+Andolasoft is a software company that builds web and mobile applications.
+
+Employees receive 18 days of paid leave every year.
+
+The password reset process requires users to click the Forgot Password link on the login page.
+
+Two-factor authentication is mandatory for all administrator accounts.
+
+Office hours are Monday to Thursday from 9 AM to 6 PM. The office is closed on Fridays.
+
+New employees must complete onboarding within their first 30 days.
+
+IT support requests can be submitted through support.andolasoft.com.
+
+All code changes must be reviewed by a senior developer before merging.
+
+Employees should regularly update their passwords for security.
+
+Company laptops should not be shared with anyone outside the organization.
+
+All confidential information must remain inside the company network.
+
+Training sessions are held every month for all employees.
